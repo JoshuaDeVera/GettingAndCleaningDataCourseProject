@@ -26,7 +26,7 @@ Click [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U
 
 
       
-###Transformations Done on the Data    
+### Transformations Done on the Data    
   + Merge **x_test** and **x_train** using rBind() to create **x_dataset**
   + Merge **y_test** and **y_train** using rBind() to create **y_dataset**
   + Merge **subject_train** and **subject_test** using rBind() to create **subject_dataset**
