@@ -4,7 +4,8 @@ Data was collected from accelerometers of Samsung Galaxy S smartphone
 Click [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) to see full data description.  
 
 ### Variables  
-*Data from the Downloaded File (Raw Data)   
+
+* Data from the Downloaded File (Raw Data)   
       + activity_labels  
       + features 
       + x_test  
@@ -15,7 +16,7 @@ Click [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U
       + subject_test
 
 * Merging the training set and test set  
-      + x_dataset 
+      + x_dataset
       + y_dataset 
       + subject_dataset  
       + fullDataset
