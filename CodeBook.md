@@ -6,23 +6,25 @@ Click [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U
 ### Variables  
 
 * Data from the Downloaded File (Raw Data)   
-      + activity_labels  
-      + features     
-      + x_test    
-      + y_test    
-      + x_train  
-      + y_train    
-      + subject_train  
-      + subject_test  
+  + activity_labels  
+  + features     
+  + x_test    
+  + y_test    
+  + x_train  
+  + y_train    
+  + subject_train  
+  + subject_test  
 
 * Merging the training set and test set  
-      + x_dataset  
-      + y_dataset   
-      + subject_dataset     
-      + fullDataset  
+  + x_dataset  
+  + y_dataset   
+  + subject_dataset     
+  + fullDataset  
       
 * Extracting the mean and standard deviation for each measurement  
-      + cleanDataset    
+  + cleanDataset    
+
+
       
 ###Transformations Done on the Data    
   + Merge **x_test** and **x_train** using rBind() to create **x_dataset**
