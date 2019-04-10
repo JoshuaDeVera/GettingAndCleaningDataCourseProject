@@ -6,7 +6,7 @@ Click [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+U
 ### Variables
 *####Data from the Downloaded File (Raw Data)
       +######activity_labels  
-      +######features  
+      +######features 
       +######x_test  
       +######y_test  
       +######x_train  
